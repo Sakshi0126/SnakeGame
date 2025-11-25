@@ -1,0 +1,6 @@
+# Ignore build and binary files
+*.exe
+*.obj
+*.o
+*.log
+*.tmp
