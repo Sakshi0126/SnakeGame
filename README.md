@@ -1,6 +1,6 @@
 # Snake Game in C++
 
-A classic Snake Game implemented in C++ using Object-Oriented Programming, multithreading, and keyboard event handling. This project is designed for learning and enjoyment, with a modular architecture and ready for GitHub.
+A classic Snake Game implemented in C++ using Object-Oriented Programming, multithreading, and keyboard event handling. This project is designed for learning and enjoyment, with a modular architecture.
 
 ## Features
 - OOP-based design (Snake, Board, Game classes)
@@ -26,3 +26,4 @@ A classic Snake Game implemented in C++ using Object-Oriented Programming, multi
 
 ## License
 See LICENSE file.
+
