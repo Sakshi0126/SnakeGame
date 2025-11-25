@@ -24,6 +24,3 @@ A classic Snake Game implemented in C++ using Object-Oriented Programming, multi
 - Arrow keys: Move snake
 - 'q': Quit game
 
-## License
-See LICENSE file.
-
